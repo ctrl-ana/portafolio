@@ -1,3 +1,9 @@
 body {
-    background-color: lavender;
+    background-color: white;
 }
+
+#arriba {
+    font-size: large;
+    border-radius: 15px;
+}
+
